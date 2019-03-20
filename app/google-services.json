@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "530740549408",
+    "firebase_url": "https://expiration-cf81d.firebaseio.com",
+    "project_id": "expiration-cf81d",
+    "storage_bucket": "expiration-cf81d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530740549408:android:c7a91d6f1acc8dc5",
+        "android_client_info": {
+          "package_name": "com.example.keerthana.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530740549408-4fsphicck31n4vrc27rrnnlkoh4f0jj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keerthana.myapplication",
+            "certificate_hash": "5c61d57e3d7a26d2d7c273f2caf37c438e18f063"
+          }
+        },
+        {
+          "client_id": "530740549408-ee46dm7ijkrvbrmbmbv8muq4fkknvd94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZwGKJH-s3ueetEKpDeIzz6EzJmAuFJpE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530740549408-ee46dm7ijkrvbrmbmbv8muq4fkknvd94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
