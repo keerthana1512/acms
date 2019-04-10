@@ -1,5 +1,7 @@
 package com.example.keerthana.myapplication;
 
+import android.content.Intent;
+
 import java.util.Date;
 
 public class product
@@ -16,15 +18,9 @@ public class product
     public void setOption(int option) {
         this.option = option;
     }
-/*
-    public String getPdate() {
-        return pdate;
-    }
 
-    public void setPdate(String pdate) {
-        this.pdate = pdate;
-    }
-*/
+
+
     public String getCdate() {
         return cdate;
     }
@@ -42,7 +38,7 @@ public class product
         this.name=name;
         this.cdate=cdate;
         this.option=option;
-    }
+     }
 
     public String getName() {
         return name;

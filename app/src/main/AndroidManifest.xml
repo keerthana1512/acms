@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".retrieval"></activity>
+        <receiver android:name=".NotificationReceiver"/>
     </application>
 
 </manifest>
